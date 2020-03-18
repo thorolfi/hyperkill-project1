@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static double divide(long a, long b) {
+        double aPrime = a;
+        double bPrime = b;
+        return (aPrime / bPrime);
+    }
+
+    /* Do not change code below */
+    public static void main(String[] args) {
+        final Scanner scanner = new Scanner(System.in);
+        final long a = scanner.nextLong();
+        final long b = scanner.nextLong();
+        System.out.println(divide(a, b));
+    }
+}
