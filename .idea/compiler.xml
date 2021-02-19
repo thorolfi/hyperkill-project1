@@ -70,6 +70,8 @@
       <module name="Problems-Reversing_strings_main" target="11" />
       <module name="Problems-Reversing_strings_test" target="11" />
       <module name="Problems-Reversing_test" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_main" target="11" />
+      <module name="Problems-Squares_of_natural_numbers_test" target="11" />
       <module name="Problems-Sum_of_numbers_divisible_by_6_main" target="11" />
       <module name="Problems-Sum_of_numbers_divisible_by_6_test" target="11" />
       <module name="Problems-The__un_-ordered_sequence_main" target="11" />

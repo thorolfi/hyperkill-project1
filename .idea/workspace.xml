@@ -35,7 +35,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Collatz_conjecture_main" />
@@ -50,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Squares_of_natural_numbers_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Is_between_main" />
@@ -59,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -80,22 +88,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584545162479" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1584568331814">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1584624622466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584568331814" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1584568331814">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584624622466" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1584624622466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584568331814" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1584568331814">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584624622466" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1584624622466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584568331814" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1584568331814">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584624622466" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1584624622466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584568331814" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584624622466" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1584048325644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,10 +124,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584570689247" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1584557395258">
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1584623647302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584557395258" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584623647302" />
     <state x="657" y="118" width="606" height="804" key="find.popup" timestamp="1583963343248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
